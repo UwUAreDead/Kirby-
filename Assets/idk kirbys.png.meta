@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: bca1fc06fd8de274ba8dcff30716d0a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4412312811723975244
+    second: idk kirbys_0
+  - first:
+      213: 931817371296279058
+    second: idk kirbys_1
+  - first:
+      213: 5155070130838550781
+    second: idk kirbys_2
+  - first:
+      213: -9077027695104854328
+    second: idk kirbys_3
+  - first:
+      213: -39756601194826864
+    second: idk kirbys_4
+  - first:
+      213: 2099294773004056151
+    second: idk kirbys_5
+  - first:
+      213: -4137800329567909903
+    second: idk kirbys_6
+  - first:
+      213: -1922654430455692046
+    second: idk kirbys_7
+  - first:
+      213: 3255608437270428378
+    second: idk kirbys_8
+  - first:
+      213: -5879707780341402109
+    second: idk kirbys_9
+  - first:
+      213: -1696133556601644926
+    second: idk kirbys_10
+  - first:
+      213: 6746857685092580069
+    second: idk kirbys_11
+  - first:
+      213: 6727528504725911674
+    second: idk kirbys_12
+  - first:
+      213: 4733455433454685590
+    second: idk kirbys_13
+  - first:
+      213: 2397461988509325899
+    second: idk kirbys_14
+  - first:
+      213: -2322234846083287137
+    second: idk kirbys_15
+  - first:
+      213: -6681723250101544426
+    second: idk kirbys_16
+  - first:
+      213: -2833142044597670466
+    second: idk kirbys_17
+  - first:
+      213: -6112043045130301987
+    second: idk kirbys_18
+  - first:
+      213: 7149420718893954998
+    second: idk kirbys_19
+  - first:
+      213: 4584644624697171696
+    second: idk kirbys_20
+  - first:
+      213: -488904360177196487
+    second: idk kirbys_21
+  - first:
+      213: 8450950373692326787
+    second: idk kirbys_22
+  - first:
+      213: -8554264761547355292
+    second: idk kirbys_23
+  - first:
+      213: 1029051676449776156
+    second: idk kirbys_24
+  - first:
+      213: -4715344809684533746
+    second: idk kirbys_25
+  - first:
+      213: -8508154181600653357
+    second: idk kirbys_26
+  - first:
+      213: 4597938299556778175
+    second: idk kirbys_27
+  - first:
+      213: -1761477282570062411
+    second: idk kirbys_28
+  - first:
+      213: -3999576743476187252
+    second: idk kirbys_29
+  - first:
+      213: -5794694422748342750
+    second: idk kirbys_30
+  - first:
+      213: -2889623556732228174
+    second: idk kirbys_31
+  - first:
+      213: -6009334235769952305
+    second: idk kirbys_32
+  - first:
+      213: 4554306010141204284
+    second: idk kirbys_33
+  - first:
+      213: 6401366526164624666
+    second: idk kirbys_34
+  - first:
+      213: 4186767104071476654
+    second: idk kirbys_35
+  - first:
+      213: 359514682004481271
+    second: idk kirbys_36
+  - first:
+      213: 7622183709911490940
+    second: idk kirbys_37
+  - first:
+      213: 1549075760776717223
+    second: idk kirbys_38
+  - first:
+      213: -6998490322206377645
+    second: idk kirbys_39
+  - first:
+      213: -814711816094034155
+    second: idk kirbys_40
+  - first:
+      213: -3237473220751149770
+    second: idk kirbys_41
+  - first:
+      213: 400612024225052193
+    second: idk kirbys_42
+  - first:
+      213: 4371867346065248760
+    second: idk kirbys_43
+  - first:
+      213: 8894792122820229253
+    second: idk kirbys_44
+  - first:
+      213: 5294409668392511403
+    second: idk kirbys_45
+  - first:
+      213: 4322179264400072329
+    second: idk kirbys_46
+  - first:
+      213: 3109951148283791734
+    second: idk kirbys_47
+  - first:
+      213: 254503893630101537
+    second: idk kirbys_48
+  - first:
+      213: -3623350691894158601
+    second: idk kirbys_49
+  - first:
+      213: 7908463193505047006
+    second: idk kirbys_50
+  - first:
+      213: -4988263988055062516
+    second: idk kirbys_51
+  - first:
+      213: 4571200385556001218
+    second: idk kirbys_52
+  - first:
+      213: -3982798637697653607
+    second: idk kirbys_53
+  - first:
+      213: 1143089983704448854
+    second: idk kirbys_54
+  - first:
+      213: 7275769918214062471
+    second: idk kirbys_55
+  - first:
+      213: 4438894167126599798
+    second: idk kirbys_56
+  - first:
+      213: -8825819709136969856
+    second: idk kirbys_57
+  - first:
+      213: 8878645864929970259
+    second: idk kirbys_58
+  - first:
+      213: -2834738647872056652
+    second: idk kirbys_59
+  - first:
+      213: 518027282114336113
+    second: idk kirbys_60
+  - first:
+      213: -7895504407556425784
+    second: idk kirbys_61
+  - first:
+      213: 6491787720974593136
+    second: idk kirbys_62
+  - first:
+      213: 6520095772182044077
+    second: idk kirbys_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idk kirbys_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 551
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a66b4ff1fab3d30800000000000000
+      internalID: 4412312811723975244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 551
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a27a356fa7eec00800000000000000
+      internalID: 931817371296279058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 551
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8bbd4a8fc7a8740800000000000000
+      internalID: 5155070130838550781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 551
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c674e8476be70280800000000000000
+      internalID: -9077027695104854328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 551
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933e44f491c27ff0800000000000000
+      internalID: -39756601194826864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 715
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756bdb73971322d10800000000000000
+      internalID: 2099294773004056151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 715
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f74c94f5849396c0800000000000000
+      internalID: -4137800329567909903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 715
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48bde6bfb5155e0800000000000000
+      internalID: -1922654430455692046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 715
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab44fef9e3e2d20800000000000000
+      internalID: 3255608437270428378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 715
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30676a10de4176ea0800000000000000
+      internalID: -5879707780341402109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 715
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288932b448f1678e0800000000000000
+      internalID: -1696133556601644926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 715
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eabe067157a1ad50800000000000000
+      internalID: 6746857685092580069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 715
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78b084f78bfc5d50800000000000000
+      internalID: 6727528504725911674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 715
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d853743ac90b140800000000000000
+      internalID: 4733455433454685590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 715
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a999be9fe754120800000000000000
+      internalID: 2397461988509325899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 525
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97fb2216b3c5cfd0800000000000000
+      internalID: -2322234846083287137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 525
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9a36fa10c543a0800000000000000
+      internalID: -6681723250101544426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 525
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd28813258aea8d0800000000000000
+      internalID: -2833142044597670466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 525
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8c13cb39ad2ba0800000000000000
+      internalID: -6112043045130301987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 525
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fd7bb348d73360800000000000000
+      internalID: 7149420718893954998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 525
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9a74eefdef9f30800000000000000
+      internalID: 4584644624697171696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 525
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932af7223101739f0800000000000000
+      internalID: -488904360177196487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 525
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c26ef69ec74570800000000000000
+      internalID: 8450950373692326787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 525
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b04559585294980800000000000000
+      internalID: -8554264761547355292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 525
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122f4e2c0de74e00800000000000000
+      internalID: 1029051676449776156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 525
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e7549e0eabf8eb0800000000000000
+      internalID: -4715344809684533746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df407799d6fce980800000000000000
+      internalID: -8508154181600653357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 525
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0de34c5882fcf30800000000000000
+      internalID: 4597938299556778175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5bd748eb9fd87e0800000000000000
+      internalID: -1761477282570062411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f20397426ae78c0800000000000000
+      internalID: -3999576743476187252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d526cf1c159fa0800000000000000
+      internalID: -5794694422748342750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_31
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 525
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdef5e5faef5e7d0800000000000000
+      internalID: -2889623556732228174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 499
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a654f95e8a9ca0800000000000000
+      internalID: -6009334235769952305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 499
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f94ecbf25243f30800000000000000
+      internalID: 4554306010141204284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_34
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 499
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a156e1d80f836d850800000000000000
+      internalID: 6401366526164624666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 499
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a87baf726a1a30800000000000000
+      internalID: 4186767104071476654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 499
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42a60d2b04df400800000000000000
+      internalID: 359514682004481271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 499
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712b0a33bf67c960800000000000000
+      internalID: 7622183709911490940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 499
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a343723c6f7510800000000000000
+      internalID: 1549075760776717223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 499
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35931eca12e50ee90800000000000000
+      internalID: -6998490322206377645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 499
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d6677bef81b4f0800000000000000
+      internalID: -814711816094034155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 499
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b943324f2213d0800000000000000
+      internalID: -3237473220751149770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 499
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1263fa473824f8500800000000000000
+      internalID: 400612024225052193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 499
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15957203efbac30800000000000000
+      internalID: 4371867346065248760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 499
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58874af1f46a07b70800000000000000
+      internalID: 8894792122820229253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 637
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7edebda85897940800000000000000
+      internalID: 5294409668392511403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 637
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e102e14277bfb30800000000000000
+      internalID: 4322179264400072329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 637
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67906469714c82b20800000000000000
+      internalID: 3109951148283791734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 637
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a6cd51fd288300800000000000000
+      internalID: 254503893630101537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 637
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9bf83eb547bdc0800000000000000
+      internalID: -3623350691894158601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 637
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1ae18af5180cd60800000000000000
+      internalID: 7908463193505047006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 637
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08ca12f45026cab0800000000000000
+      internalID: -4988263988055062516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 637
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b13a088a207f30800000000000000
+      internalID: 4571200385556001218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 636
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942f14adb14ab8c0800000000000000
+      internalID: -3982798637697653607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 636
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb209a8421ddf00800000000000000
+      internalID: 1143089983704448854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 661
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814f92213ab8f460800000000000000
+      internalID: 7275769918214062471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 661
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678622b0abe1a9d30800000000000000
+      internalID: 4438894167126599798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 661
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fdf395cb3648580800000000000000
+      internalID: -8825819709136969856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 661
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35844a18f59473b70800000000000000
+      internalID: 8878645864929970259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 661
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d386083cf8a8d0800000000000000
+      internalID: -2834738647872056652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_60
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 660
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d2668117603700800000000000000
+      internalID: 518027282114336113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 661
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77111d2988d6290800000000000000
+      internalID: -7895504407556425784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 661
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ceee98986771a50800000000000000
+      internalID: 6491787720974593136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk kirbys_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 661
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddf625f880c7a50800000000000000
+      internalID: 6520095772182044077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
